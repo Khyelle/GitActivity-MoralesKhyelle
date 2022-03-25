@@ -9,3 +9,10 @@ print ("Morales Khyelle M.")
 print("Cawit Boac Marinduque")
 
 print("May 4, 2000")
+
+print("Marinduque State College MSC")
+
+print("Information Technology")
+
+print("BSI/T 2C common")
+
