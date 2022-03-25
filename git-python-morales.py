@@ -16,3 +16,6 @@ print("Information Technology")
 
 print("BSI/T 2C common")
 
+print("My hobbies are playing basketball, softball, and spearfishing. I also like to hike somtimes and i also love to chat and laugh with my friends")
+
+
